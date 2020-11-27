@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cotuba.iml" filepath="$PROJECT_DIR$/cotuba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cotuba-cli/cotuba-cli.iml" filepath="$PROJECT_DIR$/cotuba-cli/cotuba-cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cotuba-core/cotuba-core.iml" filepath="$PROJECT_DIR$/cotuba-core/cotuba-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cotuba-epub/cotuba-epub.iml" filepath="$PROJECT_DIR$/cotuba-epub/cotuba-epub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cotuba-pdf/cotuba-pdf.iml" filepath="$PROJECT_DIR$/cotuba-pdf/cotuba-pdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cotuba-web/cotuba-web.iml" filepath="$PROJECT_DIR$/cotuba-web/cotuba-web.iml" />
+    </modules>
+  </component>
+</project>

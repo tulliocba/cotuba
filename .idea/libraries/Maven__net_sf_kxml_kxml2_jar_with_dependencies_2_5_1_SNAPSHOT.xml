@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.sf.kxml:kxml2:jar-with-dependencies:2.5.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sf/kxml/kxml2/2.5.1-SNAPSHOT/kxml2-2.5.1-20180703.211101-1-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sf/kxml/kxml2/2.5.1-SNAPSHOT/kxml2-2.5.1-20180703.211101-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/sf/kxml/kxml2/2.5.1-SNAPSHOT/kxml2-2.5.1-20180703.211101-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
